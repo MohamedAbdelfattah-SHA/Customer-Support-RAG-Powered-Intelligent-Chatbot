@@ -1,2 +1,3 @@
 # Customer-Support-RAG-Powered-Intelligent-Chatbot
-Depi AI &amp; Machine Learning Final Graduation Project
+Depi Microsoft Machine Learning Engineering Final Graduation Project
+CAI4_AIS2_G2
